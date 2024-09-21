@@ -5,6 +5,7 @@
 ## Education 
 
 [University of Toronto](https://www.utoronto.ca)
+
 [Havergal College](https://www.havergal.on.ca)
 
 ## Research Interests
